@@ -1,5 +1,5 @@
 # Selamat Datang di GitHub Kemdikbudsitek
-## Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi Republik Indonesia
+## Kementerian Pendidikan Dasar dan Menengah Republik Indonesia
 
 Kami menyediakan repositori ini secara privat sebagai bagian dari upaya Kementerian Pendidikan dan Kebudayaan untuk mengintegrasikan dan melindungi pengembangan solusi teknologi yang digunakan dalam peningkatan pendidikan dan pelestarian kebudayaan di Indonesia. Repositori ini adalah wadah kolaboratif bagi tim internal dan mitra terverifikasi untuk berkontribusi dalam proyek-proyek strategis.
 
